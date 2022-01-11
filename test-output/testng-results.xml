@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-01-08T22:28:40 PST" name="Suite" finished-at="2022-01-08T22:28:40 PST" duration-ms="102">
+    <groups>
+    </groups>
+    <test started-at="2022-01-08T22:28:40 PST" name="Test" finished-at="2022-01-08T22:28:40 PST" duration-ms="102">
+      <class name="eptesting.Maven.RESTAPITest">
+        <test-method signature="deleteTwitter()[pri:0, instance:eptesting.Maven.RESTAPITest@485966cc]" started-at="2022-01-08T22:28:40 PST" name="deleteTwitter" finished-at="2022-01-08T22:28:40 PST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteTwitter -->
+        <test-method signature="postJira()[pri:0, instance:eptesting.Maven.RESTAPITest@485966cc]" started-at="2022-01-08T22:28:40 PST" name="postJira" finished-at="2022-01-08T22:28:40 PST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postJira -->
+      </class> <!-- eptesting.Maven.RESTAPITest -->
+      <class name="eptesting.Maven.AppiumTest">
+        <test-method signature="IOSApps()[pri:0, instance:eptesting.Maven.AppiumTest@5d0a1059]" started-at="2022-01-08T22:28:40 PST" name="IOSApps" finished-at="2022-01-08T22:28:40 PST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- IOSApps -->
+        <test-method signature="NativeAppAndroid()[pri:0, instance:eptesting.Maven.AppiumTest@5d0a1059]" started-at="2022-01-08T22:28:40 PST" name="NativeAppAndroid" finished-at="2022-01-08T22:28:40 PST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NativeAppAndroid -->
+      </class> <!-- eptesting.Maven.AppiumTest -->
+      <class name="eptesting.Maven.SeleniumTest">
+        <test-method signature="browserAutomation()[pri:0, instance:eptesting.Maven.SeleniumTest@6cd28fa7]" started-at="2022-01-08T22:28:40 PST" name="browserAutomation" finished-at="2022-01-08T22:28:40 PST" duration-ms="14" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserAutomation -->
+        <test-method signature="elementUi()[pri:0, instance:eptesting.Maven.SeleniumTest@6cd28fa7]" started-at="2022-01-08T22:28:40 PST" name="elementUi" finished-at="2022-01-08T22:28:40 PST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- elementUi -->
+      </class> <!-- eptesting.Maven.SeleniumTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
