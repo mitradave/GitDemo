@@ -18,6 +18,9 @@ public class RESTAPITest {
 
 	@Test
 	public void deleteTwitter() {
-		System.out.println("deleteTwitter");
+		System.out.println("NativeAppAndroid");
+		System.out.println("NativeAppAndroid43");
+		System.out.println("NativeAppAndroid34");
+		System.out.println("NativeAppAndroid455");
 	}
 }
